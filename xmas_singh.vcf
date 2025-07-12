@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Singh;Xmas;;;
+FN:Xmas Singh
+ORG:Your Company Name
+TITLE:Founder
+TEL;TYPE=CELL:+916543876956
+EMAIL:xmas123@gmail.com
+URL:https://yourwebsite.com
+ADR;TYPE=home:;;123 Street Name;City;State;123456;India
+END:VCARD
