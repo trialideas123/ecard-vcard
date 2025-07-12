@@ -3,9 +3,19 @@ VERSION:3.0
 N:Singh;Xmas;;;
 FN:Xmas Singh
 ORG:Your Company Name
-TITLE:Founder
+TITLE:Founder & CEO
 TEL;TYPE=CELL:+916543876956
 EMAIL:xmas123@gmail.com
-URL:https://yourwebsite.com
+
+URL;TYPE=Website:https://yourwebsite.com
+URL;TYPE=LinkedIn:https://linkedin.com/in/xmassingh
+URL;TYPE=Instagram:https://instagram.com/xmassingh
+URL;TYPE=Twitter:https://twitter.com/xmassingh
+
 ADR;TYPE=home:;;123 Street Name;City;State;123456;India
+
+NOTE:Entrepreneur, passionate about digital products and networking. Building better tools for better connections.
+
+PHOTO;VALUE=URI:https://yourwebsite.com/images/profile-xmas.jpg
+
 END:VCARD
